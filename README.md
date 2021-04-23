@@ -6,6 +6,12 @@
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/Yui_active/posts.svg)](http://qiita.com/Yui_active)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/Yui_active/contributions.svg)](http://qiita.com/Yui_active)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/Yui_active/followers.svg)](http://qiita.com/Yui_active)
+
+
+# Summary
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YuikoIto&count_private=true&show_icons=true&theme=monokai)
+[![trophy](https://github-profile-trophy.vercel.app/?username=YuikoIto)](https://github.com/ryo-ma/github-profile-trophy)
                 
 
 <!--

@@ -3,9 +3,9 @@
 [![](https://raw.githubusercontent.com/YuikoIto/YuikoIto/master/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 # Qiita
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/Yui_active/posts.svg)](http://qiita.com/Yui_active)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/Yui_active/contributions.svg)](http://qiita.com/Yui_active)
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/Yui_active/followers.svg)](http://qiita.com/Yui_active)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/Yui_active/posts.svg)](http://qiita.com/yuikoito)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/Yui_active/contributions.svg)](http://qiita.com/yuikoito)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/Yui_active/followers.svg)](http://qiita.com/yuikoito)
 
 
 # Summary

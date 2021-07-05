@@ -2,12 +2,11 @@
 
 [![](https://raw.githubusercontent.com/YuikoIto/YuikoIto/master/profile-summary-card-output/solarized/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-# Qiita
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/Yui_active/posts.svg)](http://qiita.com/yuikoito)
+# Output
 
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/Yui_active/contributions.svg)](http://qiita.com/yuikoito)
-
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/Yui_active/followers.svg)](http://qiita.com/yuikoito)
+- Qiita: https://qiita.com/yuikoito
+- Zenn: https://zenn.dev/yui
+- Dev.to: https://dev.to/yuiko
 
 
 # Summary

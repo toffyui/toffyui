@@ -4,7 +4,9 @@
 
 # Qiita
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/Yui_active/posts.svg)](http://qiita.com/yuikoito)
+
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/Yui_active/contributions.svg)](http://qiita.com/yuikoito)
+
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/Yui_active/followers.svg)](http://qiita.com/yuikoito)
 
 

@@ -9,6 +9,11 @@
 - Dev.to: https://dev.to/yuiko
 
 
+## Resume
+
+- https://resume.io/r/sKddfehov
+
+
 # Summary
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YuikoIto&count_private=true&show_icons=true&theme=monokai)

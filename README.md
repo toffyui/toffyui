@@ -14,7 +14,7 @@
 - https://resume.io/r/sKddfehov
 
 ## Interview
-- [https://okanechips.mei-kyu.com/jobcrossing/8620/](「ただ言われたことをやる人材は必要ない」これからの時代を生きるエンジニアに求められる“プラスα”の能力)
+- [「ただ言われたことをやる人材は必要ない」これからの時代を生きるエンジニアに求められる“プラスα”の能力](https://okanechips.mei-kyu.com/jobcrossing/8620/)
 
 # Summary
 

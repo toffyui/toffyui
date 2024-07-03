@@ -4,9 +4,9 @@
 
 # Output
 
-- Qiita: https://qiita.com/yuikoito
+- Qiita: https://qiita.com/toffy
 - Zenn: https://zenn.dev/yui
-- Dev.to: https://dev.to/yuiko
+- Dev.to: https://dev.to/toffy
 
 
 ## Resume

@@ -18,13 +18,13 @@
 
 # Summary
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YuikoIto&count_private=true&show_icons=true&theme=monokai)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=toffyui&count_private=true&show_icons=true&theme=monokai)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YuikoIto)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=toffyui)](https://github.com/ryo-ma/github-profile-trophy)
                 
 
 <!--
-**YuikoIto/YuikoIto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**toffyui/toffyui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
